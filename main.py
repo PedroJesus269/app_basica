@@ -13,4 +13,4 @@ nombre = st.text_input('¿Cómo te llamas?')
 
 # Mostrar el saludo
 if nombre:
-    st.write(f'¡Hola, {nombre}! Encantado de conocerte.')
+    st.write(f'¡Hola, {nombre}! Encantado de conocerte. HICE UN CAMBIO')
