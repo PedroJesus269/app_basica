@@ -1,6 +1,7 @@
 # streamlit_app.py
 
 import streamlit as st
+import numpy
 
 # Título de la app
 st.title('Mi Primera Aplicación con Streamlit')
