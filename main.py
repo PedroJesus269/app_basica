@@ -2,6 +2,7 @@
 
 import streamlit as st
 import numpy
+import cv2
 
 # Título de la app
 st.title('Mi Primera Aplicación con Streamlit')
